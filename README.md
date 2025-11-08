@@ -100,7 +100,7 @@
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer {#disclaimer}
 
 <div align="center">
 
@@ -120,3 +120,7 @@
 `💀` `►` `NO TARGET - NO PROBLEM` `◄` `💀`
 
 </div>
+
+---
+
+**Keywords:** telegram takedown, telegram removal, anti scam, spam removal, telegram security, bot removal, channel removal, telegram moderation, digital enforcement, resource takedown, content moderation, scam fighting, abuse report, account termination, platform enforcement, cyber security, trust safety, violation report, community protection, malicious removal

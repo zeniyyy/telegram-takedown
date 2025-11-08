@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/TELEGRAM-RESOURCE_TAKEDOWN-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Takedown">
+  <img src="https://img.shields.io/badge/TELEGRAM-SCAM_TAKEDOWN-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Takedown">
 </p>
 
 # 🚨 Telegram Resource Takedown

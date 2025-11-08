@@ -100,7 +100,7 @@
 
 ---
 
-## ⚠️ Disclaimer {#disclaimer}
+## ⚠️ Disclaimer
 
 <div align="center">
 
